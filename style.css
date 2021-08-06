@@ -51,14 +51,14 @@ img{
 }
 .link{
     text-decoration: none;
-    background-image: radial-gradient(orange,#ff7300,red);
+    background-image: radial-gradient(skyblue,skyblue,#008cff,blue,darkblue);
     padding: 10px 40px;    
     border-radius: 15px 0 15px 0;
     font-weight: 700;
-    color: white;
+    color: #000000;
 }
 .Lorem{
-    background-image: url(pic/Frame-1.png);
+    background-image: url(Pic/Frame-1.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover
